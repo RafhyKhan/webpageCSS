@@ -1,0 +1,40 @@
+
+
+
+body  {
+      width: 600px;
+      margin: auto;
+
+}
+
+a     {
+    color: #00376c;
+    text-decoration: none;
+}
+
+a:hover   {
+
+    text-decoration: underline;
+}
+
+
+h3    {
+    color: #1577ff;
+}
+
+
+.services p footer {
+    font-style: italic;
+}
+
+
+h2   {
+  border-bottom: #7b7b7b 2px solid;
+  text-align: center;
+}
+
+h3 {
+  border-bottom: #1577ff 2px solid;
+  display: inline;
+}
+
